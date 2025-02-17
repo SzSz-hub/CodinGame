@@ -33,8 +33,7 @@ orbSizeMax - orbSizeMin ≤ 3500\
 Orbs are perfectly spherical.\
 
 # :interrobang: Examples
-Input\
-1 1000\
-9 10\
-Output\
-1 12
+|Input| OutPut|
+|-----|-------|
+|1 1000|1 12|
+|9 10| |
