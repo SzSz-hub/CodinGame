@@ -1,7 +1,7 @@
-## :dart: The Goal
+# :dart: The Goal
 Your program must destroy the enemy ships by shooting the closest enemy on each turn.
 
-## :heavy_check_mark: Rules
+# :heavy_check_mark: Rules
 On each start of turn (within the game loop), you obtain information on the two closest enemies:
 
 - :arrow_left:***enemy1*** and :arrow_left:***dist1***: the name and the distance to enemy 1.
