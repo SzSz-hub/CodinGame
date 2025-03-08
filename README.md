@@ -1,4 +1,4 @@
-<p align:"center"><a href="https://www.codingame.com"><img width="auto" height="200px" src="https://github.com/aflr/aflr/blob/main/src/CodinGame.png"></a></p>
+<a href="https://www.codingame.com"><img width="auto" height="200px" src="https://github.com/aflr/aflr/blob/main/src/CodinGame.png"></a>
 
 🚀 Here you can find my solutions to [CodinGame](https://www.codingame.com) puzzles. Solutions are written in Java☕, and all of them passed the validations.
 
