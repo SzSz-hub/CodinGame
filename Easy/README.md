@@ -13,3 +13,4 @@
 | Temperatures              |      https://www.codingame.com//training/easy/temperatures       |
 | The Descent               |         https://www.codingame.com/ide/puzzle/the-descent         |
 | Unary                     |            https://www.codingame.com/ide/puzzle/unary            |
+|\|Build A Bookcase\|🔨     |            https://www.codingame.com/ide/puzzle/build-a-bookcase |
