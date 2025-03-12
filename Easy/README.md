@@ -2,6 +2,7 @@
 |:-----------------------------|:----------------------------------------------------------------:|
 | 1. NGR - Basic Radar         |     https://www.codingame.com/ide/puzzle/1--ngr---basic-radar    |
 | 1×1×1 Rubik’s cube movements |  https://www.codingame.com/ide/puzzle/111-rubiks-cube-movements  |
+| 10 pin Bowling Scores        |    https://www.codingame.com/ide/puzzle/10-pin-bowling-scores    |
 | ASCII Art                    |        https://www.codingame.com//training/easy/ascii-art        |
 | Defibrillators               |       https://www.codingame.com/ide/puzzle/defibrillators        |
 | Graffiti on the fence        |  https://www.codingame.com/training/easy/graffiti-on-the-fence   |
