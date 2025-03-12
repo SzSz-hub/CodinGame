@@ -1,5 +1,6 @@
 | Challenge Name            |                               Link                               |
 |:--------------------------|:----------------------------------------------------------------:|
+| 1. NGR - Basic Radar      |     https://www.codingame.com/ide/puzzle/1--ngr---basic-radar    |
 | ASCII Art                 |        https://www.codingame.com//training/easy/ascii-art        |
 | Defibrillators            |       https://www.codingame.com/ide/puzzle/defibrillators        |
 | Graffiti on the fence     |  https://www.codingame.com/training/easy/graffiti-on-the-fence   |
