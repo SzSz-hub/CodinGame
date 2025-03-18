@@ -4,6 +4,7 @@
 | 10 pin Bowling Scores        |    https://www.codingame.com/ide/puzzle/10-pin-bowling-scores    |
 | 1000000000D WORLD            |      https://www.codingame.com/ide/puzzle/1000000000d-world      |
 | 1D Bush Fire                 |        https://www.codingame.com/ide/puzzle/1d-bush-fire         |
+| 1D Spreadsheet               | https://www.codingame.com/ide/puzzle/1d-spreadsheet              |
 | 1×1×1 Rubik’s cube movements |  https://www.codingame.com/ide/puzzle/111-rubiks-cube-movements  |
 | 7-segment scanner            | https://www.codingame.com/ide/puzzle/7-segment-scanner           |
 | ASCII Art                    |        https://www.codingame.com//training/easy/ascii-art        |
