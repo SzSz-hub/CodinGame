@@ -7,6 +7,7 @@
 | 1D Spreadsheet               | https://www.codingame.com/ide/puzzle/1d-spreadsheet              |
 | 1×1×1 Rubik’s cube movements |  https://www.codingame.com/ide/puzzle/111-rubiks-cube-movements  |
 | 7-segment scanner            | https://www.codingame.com/ide/puzzle/7-segment-scanner           |
+| A bit of accounting - Lettering | https://www.codingame.com/ide/puzzle/a-bit-of-accounting---lettering |
 | ASCII Art                    |        https://www.codingame.com//training/easy/ascii-art        |
 | Defibrillators               |       https://www.codingame.com/ide/puzzle/defibrillators        |
 | Graffiti on the fence        |  https://www.codingame.com/training/easy/graffiti-on-the-fence   |
