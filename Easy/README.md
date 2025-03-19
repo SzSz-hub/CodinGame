@@ -10,6 +10,7 @@
 | A Bunny and Carrots             | https://www.codingame.com/ide/puzzle/a-bunny-and-carrots             |
 | A child's play                  | https://www.codingame.com/ide/puzzle/a-childs-play                   |
 | abcdefghijklmnopqrstuvwxyz      | https://www.codingame.com/ide/puzzle/abcdefghijklmnopqrstuvwxyz      |
+| Add'em Up                       | https://www.codingame.com/ide/puzzle/addem-up                        |
 | A bit of accounting - Lettering | https://www.codingame.com/ide/puzzle/a-bit-of-accounting---lettering |
 | ASCII Art                       | https://www.codingame.com//training/easy/ascii-art                   |
 | Defibrillators                  | https://www.codingame.com/ide/puzzle/defibrillators                  |
@@ -26,3 +27,4 @@
 | Unary                           | https://www.codingame.com/ide/puzzle/unary                           |
 | \|Build A Bookcase\|🔨          | https://www.codingame.com/ide/puzzle/build-a-bookcase                |
 | 🤖 Robot Reach                  | https://www.codingame.com/ide/puzzle/robot-reach                     |
+ß
