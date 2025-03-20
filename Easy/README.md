@@ -14,6 +14,7 @@
 | abcdefghijklmnopqrstuvwxyz              | https://www.codingame.com/ide/puzzle/abcdefghijklmnopqrstuvwxyz              |
 | Add'em Up                               | https://www.codingame.com/ide/puzzle/addem-up                                |
 | Agent X, Mission 1 — The Caesar Cipher  | https://www.codingame.com/ide/puzzle/agent-x-mission-1-the-caesar-cipher     |
+| An adventure in the fantasy world       | https://www.codingame.com/ide/puzzle/an-adventure-in-the-fantasy-world       |
 | A bit of accounting - Lettering         | https://www.codingame.com/ide/puzzle/a-bit-of-accounting---lettering         |
 | ASCII Art                               | https://www.codingame.com//training/easy/ascii-art                           |
 | Defibrillators                          | https://www.codingame.com/ide/puzzle/defibrillators                          |
