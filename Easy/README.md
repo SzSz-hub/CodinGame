@@ -10,6 +10,7 @@
 | 7-segment scanner                       | https://www.codingame.com/ide/puzzle/7-segment-scanner                       |
 | A Bunny and Carrots                     | https://www.codingame.com/ide/puzzle/a-bunny-and-carrots                     |
 | A child's play                          | https://www.codingame.com/ide/puzzle/a-childs-play                           |
+| A mountain of a mole hill               | https://www.codingame.com/ide/puzzle/a-mountain-of-a-mole-hill               |
 | abcdefghijklmnopqrstuvwxyz              | https://www.codingame.com/ide/puzzle/abcdefghijklmnopqrstuvwxyz              |
 | Add'em Up                               | https://www.codingame.com/ide/puzzle/addem-up                                |
 | Agent X, Mission 1 — The Caesar Cipher  | https://www.codingame.com/ide/puzzle/agent-x-mission-1-the-caesar-cipher     |
