@@ -15,6 +15,7 @@
 | Add'em Up                               | https://www.codingame.com/ide/puzzle/addem-up                                |
 | Agent X, Mission 1 — The Caesar Cipher  | https://www.codingame.com/ide/puzzle/agent-x-mission-1-the-caesar-cipher     |
 | An adventure in the fantasy world       | https://www.codingame.com/ide/puzzle/an-adventure-in-the-fantasy-world       |
+| anagram to break the code !             | https://www.codingame.com/ide/puzzle/anagram-to-break-the-code               |
 | A bit of accounting - Lettering         | https://www.codingame.com/ide/puzzle/a-bit-of-accounting---lettering         |
 | ASCII Art                               | https://www.codingame.com//training/easy/ascii-art                           |
 | Defibrillators                          | https://www.codingame.com/ide/puzzle/defibrillators                          |
