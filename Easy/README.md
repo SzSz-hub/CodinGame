@@ -1,13 +1,16 @@
 | Challenge Name                          | Link                                                                         |
 |:----------------------------------------|:-----------------------------------------------------------------------------|
+| \|Build A Bookcase\|🔨                  | https://www.codingame.com/ide/puzzle/build-a-bookcase                        |
+| 🤖 Robot Reach                          | https://www.codingame.com/ide/puzzle/robot-reach                             |
 | 1. NGR - Basic Radar                    | https://www.codingame.com/ide/puzzle/1--ngr---basic-radar                    |
+| 1×1×1 Rubik’s cube movements            | https://www.codingame.com/ide/puzzle/111-rubiks-cube-movements               |
 | 10 pin Bowling Scores                   | https://www.codingame.com/ide/puzzle/10-pin-bowling-scores                   |
 | 1000000000D WORLD                       | https://www.codingame.com/ide/puzzle/1000000000d-world                       |
 | 1D Bush Fire                            | https://www.codingame.com/ide/puzzle/1d-bush-fire                            |
 | 1D Spreadsheet                          | https://www.codingame.com/ide/puzzle/1d-spreadsheet                          |
-| 1×1×1 Rubik’s cube movements            | https://www.codingame.com/ide/puzzle/111-rubiks-cube-movements               |
 | 2nd degree polynomial - simple analysis | https://www.codingame.com/ide/puzzle/2nd-degree-polynomial---simple-analysis |
 | 7-segment scanner                       | https://www.codingame.com/ide/puzzle/7-segment-scanner                       |
+| A bit of accounting - Lettering         | https://www.codingame.com/ide/puzzle/a-bit-of-accounting---lettering         |
 | A Bunny and Carrots                     | https://www.codingame.com/ide/puzzle/a-bunny-and-carrots                     |
 | A child's play                          | https://www.codingame.com/ide/puzzle/a-childs-play                           |
 | A mountain of a mole hill               | https://www.codingame.com/ide/puzzle/a-mountain-of-a-mole-hill               |
@@ -17,7 +20,7 @@
 | An adventure in the fantasy world       | https://www.codingame.com/ide/puzzle/an-adventure-in-the-fantasy-world       |
 | anagram to break the code !             | https://www.codingame.com/ide/puzzle/anagram-to-break-the-code               |
 | Annihilation                            | https://www.codingame.com/ide/puzzle/annihilation                            |
-| A bit of accounting - Lettering         | https://www.codingame.com/ide/puzzle/a-bit-of-accounting---lettering         |
+| Another Road Construction Site - 1      | https://www.codingame.com/ide/puzzle/another-road-construction-site---1      |
 | ASCII Art                               | https://www.codingame.com//training/easy/ascii-art                           |
 | Defibrillators                          | https://www.codingame.com/ide/puzzle/defibrillators                          |
 | Graffiti on the fence                   | https://www.codingame.com/training/easy/graffiti-on-the-fence                |
@@ -32,5 +35,3 @@
 | Temperatures                            | https://www.codingame.com//training/easy/temperatures                        |
 | The Descent                             | https://www.codingame.com/ide/puzzle/the-descent                             |
 | Unary                                   | https://www.codingame.com/ide/puzzle/unary                                   |
-| \|Build A Bookcase\|🔨                  | https://www.codingame.com/ide/puzzle/build-a-bookcase                        |
-| 🤖 Robot Reach                          | https://www.codingame.com/ide/puzzle/robot-reach                             |ß
