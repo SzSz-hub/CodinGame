@@ -4,9 +4,9 @@ import java.util.HashSet;
 import java.util.Scanner;
 
 class Solution {
-    private final static ArrayList<String> adjList = new ArrayList<>(Arrays.asList("Adaptable", "Adventurous", "Affectionate", "Courageous", "Creative", "Dependable", "Determined", "Diplomatic", "Giving", "Gregarious", "Hardworking", "Helpful", "Hilarious", "Honest", "Non-judgmental", "Observant", "Passionate", "Sensible", "Sensitive", "Sincere"));
-    private final static ArrayList<String> goodList = new ArrayList<>(Arrays.asList("Love", "Forgiveness", "Friendship", "Inspiration", "Epic Transformations", "Wins"));
-    private final static ArrayList<String> badList = new ArrayList<>(Arrays.asList("Crime", "Disappointment", "Disasters", "Illness", "Injury", "Investment Loss"));
+    private final static ArrayList<String> adjList = new ArrayList<>(Arrays.asList("adaptable", "adventurous", "affectionate", "courageous", "creative", "dependable", "determined", "diplomatic", "giving", "gregarious", "hardworking", "helpful", "hilarious", "honest", "non-judgmental", "observant", "passionate", "sensible", "sensitive", "sincere"));
+    private final static ArrayList<String> goodList = new ArrayList<>(Arrays.asList("love", "forgiveness", "friendship", "inspiration", "epic transformations", "wins"));
+    private final static ArrayList<String> badList = new ArrayList<>(Arrays.asList("crime", "disappointment", "disasters", "illness", "injury", "investment loss"));
     private final static ArrayList<Character> voewels = new ArrayList<>(Arrays.asList('a', 'e', 'i', 'o', 'u', 'y'));
     private final static ArrayList<Character> consonants = new ArrayList<>(Arrays.asList('b', 'c', 'd', 'f', 'g', 'h', 'j', 'k', 'l', 'm', 'n', 'p', 'q', 'r', 's', 't', 'v', 'w', 'x', 'z'));
 
@@ -14,11 +14,11 @@ class Solution {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
         String name = in.nextLine();
+        in.close();
         String cleanedName = name.toLowerCase().replaceAll("[^a-zA-z]", "");
 
-        System.out.println("Hello Lisa.");
-        System.err.println(cleanedName);
-        System.err.println(Arrays.toString(getIndexes(cleanedName)));
+        int[] indexes = getIndexes(cleanedName);
+        printMessages(name, indexes);
     }
 
     private static int[] getIndexes(String name) {
@@ -38,8 +38,18 @@ class Solution {
                 foundConsonants.add(c);
             }
         }
-        if (vowelCounter != 2 && consonantsCounter != 3)
+        if (vowelCounter != 2 || consonantsCounter != 3)
             indexes[0] = -1;
         return indexes;
+    }
+
+    private static void printMessages(String name, int[] indexes) {
+        if (indexes[0] == -1) {
+            System.out.println("Hello " + name + ".");
+            return;
+        }
+        System.out.println("It's so nice to meet you, my dear " + adjList.get(indexes[0]) + " " + name + ".");
+        System.out.println("I sense you are both " + adjList.get(indexes[1]) + " and " + adjList.get(indexes[2]) + ".");
+        System.out.println("May our future together have much more " + goodList.get(indexes[3]) + " than " + badList.get(indexes[4]) + ".");
     }
 }
