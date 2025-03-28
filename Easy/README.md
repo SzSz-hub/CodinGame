@@ -24,6 +24,7 @@
 | Are The Clumps Normal                   | https://www.codingame.com/ide/puzzle/are-the-clumps-normal                   |
 | Artificial Emotional Intelligence       | https://www.codingame.com/ide/puzzle/artificial-emotional-intelligence       |
 | ASCII Art                               | https://www.codingame.com//training/easy/ascii-art                           |
+| ASCII Art The Drunken Bishop Algorithm  | https://www.codingame.com/ide/puzzle/ascii-art-the-drunken-bishop-algorithm  |
 | Defibrillators                          | https://www.codingame.com/ide/puzzle/defibrillators                          |
 | Graffiti on the fence                   | https://www.codingame.com/training/easy/graffiti-on-the-fence                |
 | Hooch Clash                             | https://www.codingame.com/training/easy/hooch-clash                          |
