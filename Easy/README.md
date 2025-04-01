@@ -29,6 +29,7 @@
 | Asteroids                               | https://www.codingame.com/ide/puzzle/asteroids                               |
 | Auto pickup                             | https://www.codingame.com/ide/puzzle/auto-pickup                             |
 | Azimut                                  | https://www.codingame.com/ide/puzzle/azimut                                  |
+| Bank Robbers                            | https://www.codingame.com/ide/puzzle/bank-robbers                            |
 | Defibrillators                          | https://www.codingame.com/ide/puzzle/defibrillators                          |
 | Graffiti on the fence                   | https://www.codingame.com/training/easy/graffiti-on-the-fence                |
 | Hooch Clash                             | https://www.codingame.com/training/easy/hooch-clash                          |
