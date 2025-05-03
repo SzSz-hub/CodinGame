@@ -43,4 +43,5 @@
 | Power of Thor - Episode 1               | https://www.codingame.com//training/easy/power-of-thor-episode-1             |
 | Temperatures                            | https://www.codingame.com//training/easy/temperatures                        |
 | The Descent                             | https://www.codingame.com/ide/puzzle/the-descent                             |
+| Touching Balls                          | https://www.codingame.com/ide/puzzle/touching-balls                          |
 | Unary                                   | https://www.codingame.com/ide/puzzle/unary                                   |
