@@ -29,6 +29,7 @@
 | Asteroids                               | https://www.codingame.com/ide/puzzle/asteroids                               |
 | Auto pickup                             | https://www.codingame.com/ide/puzzle/auto-pickup                             |
 | Azimut                                  | https://www.codingame.com/ide/puzzle/azimut                                  |
+| Balanced ternary computer: encode       | https://www.codingame.com/ide/puzzle/balanced-ternary-computer-encode        |
 | Bank Robbers                            | https://www.codingame.com/ide/puzzle/bank-robbers                            |
 | Battle of Heroes                        | https://www.codingame.com/ide/puzzle/battle-of-heroes                        |
 | Defibrillators                          | https://www.codingame.com/ide/puzzle/defibrillators                          |
