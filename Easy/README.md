@@ -36,6 +36,7 @@
 | Bijective Numeration                    | https://www.codingame.com/ide/puzzle/bijective-numeration                    |
 | Binary image                            | https://www.codingame.com/ide/puzzle/binary-image                            |
 | Blackjack solver                        | https://www.codingame.com/ide/puzzle/blackjack-solver                        |
+| Blending Colors                         | https://www.codingame.com/ide/puzzle/blending-colors                         |
 | Defibrillators                          | https://www.codingame.com/ide/puzzle/defibrillators                          |
 | Graffiti on the fence                   | https://www.codingame.com/training/easy/graffiti-on-the-fence                |
 | Hooch Clash                             | https://www.codingame.com/training/easy/hooch-clash                          |
