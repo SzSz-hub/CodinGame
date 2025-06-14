@@ -39,6 +39,7 @@
 | Blending Colors                         | https://www.codingame.com/ide/puzzle/blending-colors                         |
 | Blowing Fuse                            | https://www.codingame.com/ide/puzzle/blowing-fuse                            |
 | Body weight is a girl's secret          | https://www.codingame.com/ide/puzzle/body-weight-is-a-girls-secret           |
+| Brackets, extreme edition.              | https://www.codingame.com/ide/puzzle/brackets-extreme-edition                |
 | Defibrillators                          | https://www.codingame.com/ide/puzzle/defibrillators                          |
 | Folding Paper                           | https://www.codingame.com/ide/puzzle/folding-paper                           |
 | Graffiti on the fence                   | https://www.codingame.com/training/easy/graffiti-on-the-fence                |
