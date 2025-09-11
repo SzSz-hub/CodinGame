@@ -52,6 +52,7 @@
 | Mars Lander - Episode 1                 | https://www.codingame.com/ide/puzzle/mars-lander-episode-1                   |
 | MIME Type                               | https://www.codingame.com/ide/puzzle/mime-type                               |
 | Onboarding                              | https://www.codingame.com/training/easy/onboarding                           |
+| Peaks and Valleys in 2D Grid            | https://www.codingame.com/ide/puzzle/peaks-and-valleys-in-2d-grid            |
 | Hello, World!                           | https://www.codingame.com/ide/puzzle/hello-world                             |
 | Power of Thor - Episode 1               | https://www.codingame.com//training/easy/power-of-thor-episode-1             |
 | Scaleable TicTacToe                     | https://www.codingame.com/ide/puzzle/scaleable-tictactoe                     |
