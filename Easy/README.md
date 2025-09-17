@@ -56,6 +56,7 @@
 | Hello, World!                           | https://www.codingame.com/ide/puzzle/hello-world                             |
 | Power of Thor - Episode 1               | https://www.codingame.com//training/easy/power-of-thor-episode-1             |
 | Scaleable TicTacToe                     | https://www.codingame.com/ide/puzzle/scaleable-tictactoe                     |
+| Seeing Squares                          | https://www.codingame.com/ide/puzzle/seeing-squares                          |
 | Squash Pi                               | https://www.codingame.com/ide/puzzle/squash-pi                               |
 | Takuzu Solver (Easy mode)               | https://www.codingame.com/ide/puzzle/takuzu-solver-easy-mode                 |
 | Temperatures                            | https://www.codingame.com//training/easy/temperatures                        |
