@@ -41,6 +41,7 @@
 | Body weight is a girl's secret          | https://www.codingame.com/ide/puzzle/body-weight-is-a-girls-secret           |
 | Bouncing Simulator                      | https://www.codingame.com/ide/puzzle/bouncing-simulator                      |
 | Brackets, extreme edition.              | https://www.codingame.com/ide/puzzle/brackets-extreme-edition                |
+| Brick in the Wall                       | https://www.codingame.com/ide/puzzle/brick-in-the-wall                       |
 | Button Mash                             | https://www.codingame.com/ide/puzzle/button-mash                             |
 | City Lights Part 1                      | https://www.codingame.com/ide/puzzle/city-lights-part-1                      |
 | Defibrillators                          | https://www.codingame.com/ide/puzzle/defibrillators                          |
