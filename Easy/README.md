@@ -45,6 +45,7 @@
 | Button Mash                             | https://www.codingame.com/ide/puzzle/button-mash                             |
 | Card Counting when easily distracted    | https://www.codingame.com/ide/puzzle/card-counting-when-easily-distracted    |
 | City Lights Part 1                      | https://www.codingame.com/ide/puzzle/city-lights-part-1                      |
+| Crop-Circles                            | https://www.codingame.com/ide/puzzle/crop-circles                            |
 | Defibrillators                          | https://www.codingame.com/ide/puzzle/defibrillators                          |
 | Folding Paper                           | https://www.codingame.com/ide/puzzle/folding-paper                           |
 | Graffiti on the fence                   | https://www.codingame.com/training/easy/graffiti-on-the-fence                |
