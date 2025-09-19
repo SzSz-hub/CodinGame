@@ -44,6 +44,7 @@
 | Brick in the Wall                       | https://www.codingame.com/ide/puzzle/brick-in-the-wall                       |
 | Bulk Email Generator                    | https://www.codingame.com/ide/puzzle/bulk-email-generator                    |
 | Button Mash                             | https://www.codingame.com/ide/puzzle/button-mash                             |
+| Buzzle                                  | https://www.codingame.com/ide/puzzle/buzzle                                  |
 | Card Counting when easily distracted    | https://www.codingame.com/ide/puzzle/card-counting-when-easily-distracted    |
 | City Lights Part 1                      | https://www.codingame.com/ide/puzzle/city-lights-part-1                      |
 | Crop-Circles                            | https://www.codingame.com/ide/puzzle/crop-circles                            |
