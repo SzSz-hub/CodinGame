@@ -47,6 +47,7 @@
 | Buzzle                                  | https://www.codingame.com/ide/puzzle/buzzle                                  |
 | By train or by car ?                    | https://www.codingame.com/ide/puzzle/by-train-or-by-car                      |
 | Caesar is the chief                     | https://www.codingame.com/ide/puzzle/caesar-is-the-chief                     |
+| Calculator                              | https://www.codingame.com/ide/puzzle/calculator                              |
 | Card Counting when easily distracted    | https://www.codingame.com/ide/puzzle/card-counting-when-easily-distracted    |
 | City Lights Part 1                      | https://www.codingame.com/ide/puzzle/city-lights-part-1                      |
 | Crop-Circles                            | https://www.codingame.com/ide/puzzle/crop-circles                            |
