@@ -49,6 +49,7 @@
 | Caesar is the chief                     | https://www.codingame.com/ide/puzzle/caesar-is-the-chief                     |
 | Calculator                              | https://www.codingame.com/ide/puzzle/calculator                              |
 | Card Counting when easily distracted    | https://www.codingame.com/ide/puzzle/card-counting-when-easily-distracted    |
+| Catching Up                             | https://www.codingame.com/ide/puzzle/catching-up                             |
 | Character replacement problem           | https://www.codingame.com/ide/puzzle/character-replacement-problem           |
 | City Lights Part 1                      | https://www.codingame.com/ide/puzzle/city-lights-part-1                      |
 | Crop-Circles                            | https://www.codingame.com/ide/puzzle/crop-circles                            |
