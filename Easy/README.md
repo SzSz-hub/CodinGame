@@ -52,6 +52,7 @@
 | Catching Up                             | https://www.codingame.com/ide/puzzle/catching-up                             |
 | Character replacement problem           | https://www.codingame.com/ide/puzzle/character-replacement-problem           |
 | Cheap Choices                           | https://www.codingame.com/ide/puzzle/cheap-choices                           |
+| Chinese Numbers                         | https://www.codingame.com/ide/puzzle/chinese-numbers                         |
 | City Lights Part 1                      | https://www.codingame.com/ide/puzzle/city-lights-part-1                      |
 | Crop-Circles                            | https://www.codingame.com/ide/puzzle/crop-circles                            |
 | Defibrillators                          | https://www.codingame.com/ide/puzzle/defibrillators                          |
