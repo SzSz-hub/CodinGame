@@ -55,6 +55,7 @@
 | Chinese Numbers                         | https://www.codingame.com/ide/puzzle/chinese-numbers                         |
 | City Lights Part 1                      | https://www.codingame.com/ide/puzzle/city-lights-part-1                      |
 | City Lights Part 2                      | https://www.codingame.com/ide/puzzle/city-lights-part-2                      |
+| Codongame                               | https://www.codingame.com/ide/puzzle/codongame                               |
 | Crop-Circles                            | https://www.codingame.com/ide/puzzle/crop-circles                            |
 | Defibrillators                          | https://www.codingame.com/ide/puzzle/defibrillators                          |
 | Folding Paper                           | https://www.codingame.com/ide/puzzle/folding-paper                           |
